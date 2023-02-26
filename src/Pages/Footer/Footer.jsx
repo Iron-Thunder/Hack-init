@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../Assets/inhale_small.png'
+import logo from '../../Assets/inhales.png'
 const Navbar = () => {
   return (
     <>
@@ -21,8 +21,8 @@ const Navbar = () => {
       </div>
       <div className='text-center w-screen md:w-auto mt-8 md:text-left'>
         <h2 className=' text-gray-400 mt-8 md:mt-0 mb-4 font-medium m-2'>PRODUCT</h2>
-        <h2 className='font-medium m-2 '>Inhaleee extention</h2>
-        <h2 className='font-medium m-2'>Inhaleee App</h2>
+        <h2 className='font-medium m-2 '>inBreadth extention</h2>
+        <h2 className='font-medium m-2'>inBreadth App</h2>
         <h2 className='font-medium m-2'>Other site</h2>
       </div>
       <div className='text-center w-screen md:w-auto mt-8 md:mt-0 md:text-left'>
@@ -42,7 +42,7 @@ const Navbar = () => {
     <hr className='md:mx-48' />
     <div className='flex flex-col w-screen md:w-auto lg:flex-row md:flex-row justify-between lg:mx-48 md:mx-32 items-center text-center'>
         <div className='flex'>
-            <h4 className='text-gray-400 m-6 text-xs'>©2023, inhaleee</h4>
+            <h4 className='text-gray-400 m-6 text-xs'>©2023, inBreadth</h4>
             <h4 className='text-gray-400 m-6 text-xs'>send feedback</h4>
         </div>
         <div className='flex'>
