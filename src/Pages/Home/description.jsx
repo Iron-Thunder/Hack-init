@@ -19,9 +19,9 @@ const Description = () => {
             fill="black"
           />
         </svg>
-        <h2 className="lg:text-7xl md:text-5xl text-4xl m-4 text-center">
-          MAKE HIGH WORKLOAD
-          <br /> AND OVERTIME WORK SAFER
+        <h2 className="lg:text-5xl md:text-3xl text-2xl m-4 text-center">
+        Breath is the bridge which connects life to consciousness,
+          <br /> which unites your body to your thoughts. 
         </h2>
         <h3 className="lg:text-2xl md:text-2xl text-xl text-center mx-8 m-4">
           Breaks for practices were scientifically proven as <br /> an effective
@@ -43,6 +43,7 @@ const Description = () => {
           src="https://assets10.lottiefiles.com/packages/lf20_khrclx93.json"
           className="player h-48"
           loop
+          
           autoplay
           speed={1}
         />

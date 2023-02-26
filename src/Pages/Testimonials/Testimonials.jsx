@@ -45,7 +45,7 @@ for Psychiatric Genetics</h2>
             <h2 className='lg:text-5xl lg:pl-0 md:pl-16 md:text-4xl text-2xl m-4'>“I am glad that I joined such a unique project. At the interview stage, I did not believe in the technology. However, now I am ready to share it with everyone!”</h2>
             <img className='w-8  mt-8 ml-6' src={tweet} alt="" />
             <h1 className='lg:text-3xl lg:pl-0 md:pl-16 md:text-2xl text-xl m-4'>Christiana Luna</h1>
-            <h2 className='lg:text-2xl lg:pl-0 md:pl-16  text-xl ml-4 bold text-gray-500'>Communications Manager at Breathhh</h2>
+            <h2 className='lg:text-2xl lg:pl-0 md:pl-16  text-xl ml-4 bold text-gray-500'>Communications Manager at inBreath</h2>
         </div>
         </div>
     </div>
